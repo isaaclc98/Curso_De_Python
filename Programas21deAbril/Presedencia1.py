@@ -1,0 +1,7 @@
+print("Precedencia de signos")
+a=int(input("dame el valor de a:"))
+b=int(input("dame el valor de b:"))
+c=int(input("dame el valor de c:"))
+resultado=((a+b)+(a**2)-3)/(c+(2**2))
+print(resultado)
+input("...............")
