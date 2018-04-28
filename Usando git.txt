@@ -1,0 +1,228 @@
+C:\Users\PC12>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E08F-CEF4
+
+ Directorio de C:\Users\PC12
+
+11/04/2018  05:58 p. m.    <DIR>          .
+11/04/2018  05:58 p. m.    <DIR>          ..
+11/04/2018  06:01 p. m.    <DIR>          .atom
+11/01/2018  08:29 p. m.    <DIR>          .nbi
+03/03/2018  12:02 p. m.    <DIR>          .spss
+11/01/2018  05:50 p. m.    <DIR>          Adobe Flash Builder 4.6
+03/03/2018  12:02 p. m.    <DIR>          Application Data
+18/01/2018  06:33 p. m.    <DIR>          Autodesk
+11/01/2018  08:57 p. m.    <DIR>          Contacts
+28/04/2018  09:20 a. m.    <DIR>          Desktop
+04/04/2018  03:02 p. m.    <DIR>          Documents
+28/04/2018  10:32 a. m.    <DIR>          Downloads
+11/01/2018  08:57 p. m.    <DIR>          Favorites
+11/01/2018  08:57 p. m.    <DIR>          Links
+11/01/2018  08:57 p. m.    <DIR>          Music
+11/01/2018  08:57 p. m.    <DIR>          Pictures
+11/01/2018  08:57 p. m.    <DIR>          Saved Games
+11/01/2018  08:57 p. m.    <DIR>          Searches
+11/01/2018  08:57 p. m.    <DIR>          Videos
+               0 archivos              0 bytes
+              19 dirs  45,241,245,696 bytes libres
+
+C:\Users\PC12>cd Documents
+
+C:\Users\PC12\Documents>cd
+C:\Users\PC12\Documents
+
+C:\Users\PC12\Documents>cd
+C:\Users\PC12\Documents
+
+C:\Users\PC12\Documents>\cd
+"\cd" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\PC12\Documents>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E08F-CEF4
+
+ Directorio de C:\Users\PC12\Documents
+
+04/04/2018  03:02 p. m.    <DIR>          .
+04/04/2018  03:02 p. m.    <DIR>          ..
+18/01/2018  06:31 p. m.    <DIR>          3dsMax
+11/01/2018  05:08 p. m.    <DIR>          Autodesk
+10/01/2018  06:54 p. m.    <DIR>          Autodesk Application Manager
+09/02/2018  06:57 p. m.    <DIR>          Corel
+12/01/2018  06:56 p. m.    <DIR>          Cracks
+22/02/2018  08:52 p. m.    <DIR>          EViews Addins
+12/01/2018  05:14 p. m.             1,836 EViews Example Files.lnk
+22/02/2018  08:52 p. m.    <DIR>          EViews User Objects
+10/01/2018  06:45 p. m.    <DIR>          Inventor Server SDK ACAD 2016
+10/01/2018  07:42 p. m.    <DIR>          InvSvr_x64_NAVMAN_13
+22/02/2018  03:58 p. m.    <DIR>          MATLAB
+04/04/2018  03:01 p. m.    <DIR>          maya
+09/02/2018  06:58 p. m.    <DIR>          Mis paletas
+04/04/2018  03:07 p. m.                 0 pymel.log
+22/02/2018  08:55 p. m.             2,530 Registrar Vegas Pro.htm
+22/02/2018  08:37 p. m.    <DIR>          Scientific Software
+12/01/2018  06:37 p. m.    <DIR>          SolidWorks Downloads
+04/04/2018  03:02 p. m.    <DIR>          xgen
+               3 archivos          4,366 bytes
+              17 dirs  45,240,954,880 bytes libres
+
+C:\Users\PC12\Documents>cd..
+
+C:\Users\PC12>cd Desktop
+
+C:\Users\PC12\Desktop>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E08F-CEF4
+
+ Directorio de C:\Users\PC12\Desktop
+
+28/04/2018  09:20 a. m.    <DIR>          .
+28/04/2018  09:20 a. m.    <DIR>          ..
+12/01/2018  07:08 p. m.               844 APAGAR.lnk
+28/04/2018  09:20 a. m.             2,206 Atom.lnk
+04/04/2018  02:30 p. m.    <DIR>          Autodesk Maya 2018
+11/04/2018  02:05 p. m.    <DIR>          Clase python
+28/04/2018  10:43 a. m.    <DIR>          Clase28DeAbril
+               2 archivos          3,050 bytes
+               5 dirs  45,240,889,344 bytes libres
+
+C:\Users\PC12\Desktop>cd Clase28DeAbril
+
+C:\Users\PC12\Desktop\Clase28DeAbril>atom MenuconFunciones.py
+
+C:\Users\PC12\Desktop\Clase28DeAbril>git version
+git version 2.17.0.windows.1
+
+C:\Users\PC12\Desktop\Clase28DeAbril>git config--list
+git: 'config--list' is not a git command. See 'git --help'.
+
+C:\Users\PC12\Desktop\Clase28DeAbril>git config --list
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+
+C:\Users\PC12\Desktop\Clase28DeAbril>git config --global user.name "isaaclc98"
+
+C:\Users\PC12\Desktop\Clase28DeAbril>git config --global user.email "isaaclc98@g
+mail.com"
+
+C:\Users\PC12\Desktop\Clase28DeAbril>git config --list
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+user.name=isaaclc98
+user.email=isaaclc98@gmail.com
+
+C:\Users\PC12\Desktop\Clase28DeAbril>COLOR 0A
+
+C:\Users\PC12\Desktop\Clase28DeAbril>cd "Nueva carpeta"
+
+C:\Users\PC12\Desktop\Clase28DeAbril\Nueva carpeta>git clone https://github.com/
+isaaclc98/Curso_De_Python.git
+Cloning into 'Curso_De_Python'...
+remote: Counting objects: 36, done.
+remote: Compressing objects: 100% (33/33), done.
+remote: Total 36 (delta 7), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (36/36), done.
+
+C:\Users\PC12\Desktop\Clase28DeAbril\Nueva carpeta>cd..
+
+C:\Users\PC12\Desktop\Clase28DeAbril>git clone https://github.com/isaaclc98/Curs
+o_De_Python.git
+Cloning into 'Curso_De_Python'...
+remote: Counting objects: 36, done.
+remote: Compressing objects: 100% (33/33), done.
+remote: Total 36 (delta 7), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (36/36), done.
+
+C:\Users\PC12\Desktop\Clase28DeAbril>cd Curso_De_Python
+
+C:\Users\PC12\Desktop\Clase28DeAbril\Curso_De_Python>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E08F-CEF4
+
+ Directorio de C:\Users\PC12\Desktop\Clase28DeAbril\Curso_De_Python
+
+28/04/2018  12:26 p. m.    <DIR>          .
+28/04/2018  12:26 p. m.    <DIR>          ..
+28/04/2018  12:26 p. m.                35 miPrimerArchivoGitHub.txt
+28/04/2018  12:26 p. m.               973 miPrimerPrograma.py
+28/04/2018  12:26 p. m.    <DIR>          programas14deAbril
+28/04/2018  12:26 p. m.    <DIR>          Programas21deAbril
+28/04/2018  12:26 p. m.               107 README.md
+               3 archivos          1,115 bytes
+               4 dirs  45,231,443,968 bytes libres
+
+C:\Users\PC12\Desktop\Clase28DeAbril\Curso_De_Python>cd..
+
+C:\Users\PC12\Desktop\Clase28DeAbril>cd..
+
+C:\Users\PC12\Desktop>git clone https://github.com/isaaclc98/Curso_De_Python.git
+
+Cloning into 'Curso_De_Python'...
+remote: Counting objects: 36, done.
+remote: Compressing objects: 100% (33/33), done.
+remote: Total 36 (delta 7), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (36/36), done.
+
+C:\Users\PC12\Desktop>COLOR z
+Configura los colores predeterminados de primer y segundo plano de la consola.
+
+COLOR [atr]
+
+  atr         Especifica el atributo de color de la salida de consola
+
+Los atributos de color están especificados con dos dígitos hex (el primero
+corresponde al segundo plano; el segundo al primer plano). Los dígitos pueden
+ser cualquiera de los siguientes valores:
+
+    0 = Negro       8 = Gris
+    1 = Azul        9 = Azul claro
+    2 = Verde       A = Verde claro
+    3 = Aguamarina  B = Aguamarina claro
+    4 = Rojo        C = Rojo claro
+    5 = Púrpura     D = Púrpura claro
+    6 = Amarillo    E = Amarillo claro
+    7 = Blanco      F = Blanco brillante
+
+Si no se indican argumentos, este comando restaura el color que tenía
+cuando se inició CMD.EXE. Este valor proviene de la ventana de la consola,
+el modificador de línea de comandos o el valor del Registro DefaultColor.
+
+El comando COLOR configura ERRORLEVEL a 1 si se realiza un intento de ejecutar
+el comando COLOR con el mismo color de primer y segundo plano.
+
+Ejemplo: "COLOR fc" produce rojo claro sobre blanco brillante
+
+C:\Users\PC12\Desktop>COLOR 70
+
+C:\Users\PC12\Desktop>
