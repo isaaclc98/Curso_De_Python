@@ -226,3 +226,87 @@ Ejemplo: "COLOR fc" produce rojo claro sobre blanco brillante
 C:\Users\PC12\Desktop>COLOR 70
 
 C:\Users\PC12\Desktop>
+C:\Users\PC12\Desktop>COLOR 0A
+
+C:\Users\PC12\Desktop>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\PC12\Desktop>git --list
+unknown option: --list
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+C:\Users\PC12\Desktop>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: E08F-CEF4
+
+ Directorio de C:\Users\PC12\Desktop
+
+28/04/2018  12:31 p. m.    <DIR>          .
+28/04/2018  12:31 p. m.    <DIR>          ..
+12/01/2018  07:08 p. m.               844 APAGAR.lnk
+28/04/2018  09:20 a. m.             2,206 Atom.lnk
+04/04/2018  02:30 p. m.    <DIR>          Autodesk Maya 2018
+11/04/2018  02:05 p. m.    <DIR>          Clase python
+28/04/2018  12:28 p. m.    <DIR>          Clase28DeAbril
+28/04/2018  12:28 p. m.    <DIR>          Curso_De_Python
+28/04/2018  12:32 p. m.             8,470 Usando git.txt
+               3 archivos         11,520 bytes
+               6 dirs  45,230,120,960 bytes libres
+
+C:\Users\PC12\Desktop>cd Curso_De_Python
+
+C:\Users\PC12\Desktop\Curso_De_Python>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+C:\Users\PC12\Desktop\Curso_De_Python>git pull
+remote: Counting objects: 10, done.
+remote: Total 10 (delta 0), reused 0 (delta 0), pack-reused 10
+Unpacking objects: 100% (10/10), done.
+From https://github.com/isaaclc98/Curso_De_Python
+   d463c07..4ca5b55  master     -> origin/master
+Updating d463c07..4ca5b55
+Fast-forward
+ Clase28DeAbril/ArgsYDevolucion.py  | 10 +++++
+ Clase28DeAbril/Funciones.py        |  7 ++++
+ Clase28DeAbril/MenuconFunciones.py | 81 ++++++++++++++++++++++++++++++++++++++
+ Clase28DeAbril/NombreFor.py        |  6 +++
+ Clase28DeAbril/VarLocales.py       |  9 +++++
+ Clase28DeAbril/while.py            |  5 +++
+ Clase28DeAbril/whileTeclado.py     |  5 +++
+ 7 files changed, 123 insertions(+)
+ create mode 100644 Clase28DeAbril/ArgsYDevolucion.py
+ create mode 100644 Clase28DeAbril/Funciones.py
+ create mode 100644 Clase28DeAbril/MenuconFunciones.py
+ create mode 100644 Clase28DeAbril/NombreFor.py
+ create mode 100644 Clase28DeAbril/VarLocales.py
+ create mode 100644 Clase28DeAbril/while.py
+ create mode 100644 Clase28DeAbril/whileTeclado.py
+
+C:\Users\PC12\Desktop\Curso_De_Python>git add "Usando git.txt"
+
+C:\Users\PC12\Desktop\Curso_De_Python>git pull
+Already up to date.
+
+C:\Users\PC12\Desktop\Curso_De_Python>git commit -m "Prueba de mensaje"
+[master 3dad08b] Prueba de mensaje
+ 1 file changed, 228 insertions(+)
+ create mode 100644 Usando git.txt
+
+C:\Users\PC12\Desktop\Curso_De_Python>git push origin master
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 2.38 KiB | 2.38 MiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/isaaclc98/Curso_De_Python.git
+   4ca5b55..3dad08b  master -> master
+
+C:\Users\PC12\Desktop\Curso_De_Python>
