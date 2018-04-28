@@ -1,0 +1,41 @@
+git config –list  .- muestra la configuración de variables globales de Git.
+git clone.- Realiza una copia exacta de un repositorio en la computadora local.
+git init .- configura un directorio local para iniciar el CVS sobre los archivos del mismo.
+git remote add origin https://github.com/<user>/<Proyecto>.git .- Establece la dirección a donde se va a subir el código.
+git add <archivo> agrega a un archivo en estado modified a estado staged.
+git commit .- Etiqueta con una descripción los archivos modificados y mantenerlos almacenados localmente.
+git push.- Realiza el commit subiendo los cambios físicamente al servidor.
+git pull .- realiza una actualización desde el servidor a la computadora local, con la ultima versión de los archivos.
+git status.- muestra las modificaciones realizadas en un archivo.
+Git branch .- ver en que branch estas trabajando.
+Git branch <nombre del branch>  crear un nuevo branch y checkout para cambiarme al nuevo branch.
+Git checkout –b <branch>  bajar un branch.
+
+
+//windos
+cd ->entrar a directorios
+cd.. -> retroceder directorios
+dir ->listar directorios
+cls -> limpiar la terminal
+exit -> salir de la terminal
+
+//configuracion
+git version
+git config --list
+git config --global user.name "usuario"
+git config --global user.email "correo"
+git config user.name
+git config user.email
+git config --list
+
+//pasos para subir git
+git clone
+git status
+git pull
+git add "archivo+extencion"
+git commit -m "mensaje de comit"
+git push origin master
+//pide las credenciales
+
+git marge (cambios al mismo archivo de diferentes usuarios)
+git marge master
